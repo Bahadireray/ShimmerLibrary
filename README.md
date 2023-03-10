@@ -3,7 +3,7 @@
   
   
   	dependencies {
-	        implementation 'com.github.Bahadireray:ShimmerLibrary:Tag'
+	        implementation 'com.github.Bahadireray:ShimmerLibrary:1.0'
 	}
 	
 	
