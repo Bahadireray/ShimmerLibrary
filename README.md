@@ -1,6 +1,6 @@
 # ShimmerLibrary
 
-# Bu proje hakkında tanıdım yazım ilgili adreste mevcuttur.
+# Bu proje hakkında tanıtım yazım ilgili adreste mevcuttur.
 
 ## https://bahadireray.medium.com/android-library-compose-example-298a11fb4d7d
 
